@@ -17,7 +17,7 @@
 
 # 🔗 An Overview
 
-Here's a brief high-level overview of the AviaxMusic:
+Here's a brief high-level overview of the Xtrememusic:
 
 This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
 
@@ -60,7 +60,7 @@ For more information on the technologies that power the AviaxMusic, check out th
 ## 🖇 Heroku Deployment
 
 <h4>Click the button below to deploy AviaxMusic on Heroku!</h4>    
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TeamAviax/AviaxMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Amansiya123/AviaxMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 > How to Deploy To Heroku? [Watch Tutorial](https://www.youtube.com/embed/NPTk-awGalY)
 
@@ -124,12 +124,12 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/AviaxOfficial)
-- [Support Group](https://telegram.me/AviaxSupport)
+- [Updates Channel](https://telegram.me/Xtremeheat)
+- [Support Group](https://telegram.me/Xtremetalk)
 
 ## 🎗 Project assistance
 
-If you want to say **thank you** or/and support active development of AviaxMusic:
+If you want to say **thank you** or/and support active development of XtremeMusic:
 
 - Add a [GitHub Star](https://github.com/TeamAviax/AviaxMusic) to the project.
 - Fork the Repo :)
